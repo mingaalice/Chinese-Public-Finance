@@ -50,6 +50,9 @@ tax and debt/
 └── 4.Why did the Chinese government do this? Passive or Active?
     ├── 4.1 Background
     ├── 4.2 Literature Sharing
+    |    ├── Romer & Romer (2019)
+    |    ├── Auerbach & Gorodnichenko (2017)
+    |    └── Leeper, Plante & Traum (2010)
     └── 4.3 Potential Risks?
          ├── Figure 6. Outstanding Public Debt
          ├── Figure 7. Composition of Outstanding Public Debt
