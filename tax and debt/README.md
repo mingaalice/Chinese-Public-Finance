@@ -15,6 +15,7 @@ I do not disclose my own interpretations, nevertheless, these visualizations pro
 - Data are not disclosed due to data protection considerations; however, all data used in this project are publicly available.
 
 ## Code Structure:
+```
 tax and debt/
 |
 ├── README.md
@@ -29,9 +30,10 @@ tax and debt/
 ├── hw1_data_matlab.xlsx (not disclosed)
 |
 └── figures.pdf
+```
 
 ## Report Content (not disclosed):
-|
+```
 ├── 1.Introduction
 |
 ├── 2.Overall Trends
@@ -53,4 +55,4 @@ tax and debt/
          ├── Figure 7. Composition of Outstanding Public Debt
          ├── Figure 8. Annual Public Debt Principal Repayment
          └── Figure 9. Principal Repayment by Debt Category
-
+```
