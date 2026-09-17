@@ -1,7 +1,10 @@
 # README.md
 Author: Yujia Ming
+
 这是关于中国2015-2025年公共部门税收和债务的数据。这里分享一些图像，不披露我的想法，但这些图像仍然可以直观地提供一个视角看中国政府在做什么。
+
 This concerns data on public-sector tax and debt in China from 2015 to 2025.
+
 I do not disclose my own interpretations, nevertheless, these visualizations provide an intuitive perspective on what the Chinese government has been doing.
 
 ## Data Resource:
