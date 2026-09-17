@@ -29,7 +29,7 @@ tax and debt/
 │
 ├── hw1_data_matlab.xlsx (not disclosed)
 |
-└── figures.pdf
+└── Figures.pdf
 ```
 
 ## Report Content (not disclosed):
